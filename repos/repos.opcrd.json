@@ -2,12 +2,12 @@
     {
       "kernelSource": {
         "name": "OP11_CRD_KSU",
-        "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8550",
+        "repo": "https://github.com/Shikacy/android_kernel_oneplus_sm8550",
         "branch": "13.0",
         "device": "salami",
         "defconfig": "salami_defconfig"
       },
-      "withKernelSU": false,
+      "withKernelSU": true,
       "toolchains": [
         {
           "repo": "https://github.com/kdrag0n/proton-clang",
