@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "OP11_CRD_KSU",
-        "repo": "https://github.com/Shikacy/android_kernel_oneplus_sm8550",
-        "branch": "lineage-20",
+        "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8550",
+        "branch": "13.0",
         "device": "salami",
         "defconfig": "salami_defconfig"
       },
@@ -37,7 +37,7 @@
         }
       },
       "AnyKernel3": {
-        "use": true,
+        "use": false,
         "release": true,
         "repo": "https://github.com/Shikacy/AnyKernel3",
         "branch": "master"
